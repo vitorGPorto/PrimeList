@@ -18,8 +18,12 @@ Choose which platform you want to run the app on.
 <img width="300" height="650" src="src/assets/home.gif">
 </p>
 <p align="flex">
-  <img width="300" height="650" margin="4px" src="src/assets/home.gif">
-  <img width="300" height="650" margin="4px" src="src/assets/home.gif">
-  <img width="300" height="650" margin="4px" src="src/assets/home.gif">
-  <img width="300" height="650" margin="4px" src="src/assets/home.gif">
+  <img width="300" height="650" margin="4px" src="src/assets/Screenshot_1636065703.png">
+  <img width="300" height="650" margin="4px" src="src/assets/Screenshot_1636065711.png">
+  <img width="300" height="650" margin="4px" src="src/assets/Screenshot_1636065727.png">
+  <img width="300" height="650" margin="4px" src="src/assets/Screenshot_1636065746.png">
+   <img width="300" height="650" margin="4px" src="src/assets/Screenshot_1636065750.png">
+   <img width="300" height="650" margin="4px" src="src/assets/Screenshot_1636065756.png">
+   <img width="300" height="650" margin="4px" src="src/assets/Screenshot_1636065816.png">
+   <img width="300" height="650" margin="4px" src="src/assets/Screenshot_1636065918.png">
 </p>
