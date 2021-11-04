@@ -17,3 +17,6 @@ Choose which platform you want to run the app on.
 <p align="center">
 <img width="300" height="650" src="src/assets/home.gif">
 </p>
+<p align="flex">
+<img width="300" height="650" margin="4px" src="src/assets/home.gif">
+</p>
