@@ -15,5 +15,5 @@ Choose which platform you want to run the app on.
 
 ##Project Images:
 <p>
-<img width="500" height="300" src="src/assets/home.gif">
+<img width="700" height="300" src="src/assets/home.gif">
 </p>
