@@ -23,10 +23,10 @@ An app developed with the technology [React Native](https://reactnative.dev), us
 
 ## Project Images:
 <p align="center">
-<img width="200" height="550" src="src/assets/home.gif">
+<img width="300" height="650" src="src/assets/home.gif">
 </p>
 <p align="flex">
-  <img width="300" height="650" margin="4px" src="src/assets/Screenshot_1636065703.png">
+  <img width="200" height="450" margin="4px" src="src/assets/Screenshot_1636065703.png">
   <img width="300" height="650" margin="4px" src="src/assets/Screenshot_1636065711.png">
   <img width="300" height="650" margin="4px" src="src/assets/Screenshot_1636065727.png">
   <img width="300" height="650" margin="4px" src="src/assets/Screenshot_1636065746.png">
