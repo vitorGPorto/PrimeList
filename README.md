@@ -17,7 +17,7 @@ Choose which platform you want to run the app on.
 An app developed with the technology [React Native](https://reactnative.dev), using the API of [The Move API](https://www.themoviedb.org/), to stay informed about current movies , with a simple interface with nice layout. Need internet connection to work.
 
 ## Download of APK
-1. Click here -> [App Prime List](https://github.com/vitorGPorto/PrimeList/tree/main/src/assets)
+1. Click here -> [App Prime List](https://drive.google.com/file/d/1J8u76mLWh7IbgK3xnqaGyQd4F-_ZO8LQ/view?usp=sharing)
 2. And then click on download.
 
 
