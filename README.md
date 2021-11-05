@@ -27,11 +27,11 @@ An app developed with the technology [React Native](https://reactnative.dev), us
 </p>
 <p align="flex">
   <img width="200" height="450" margin="4px" src="src/assets/Screenshot_1636065703.png">
-  <img width="300" height="650" margin="4px" src="src/assets/Screenshot_1636065711.png">
-  <img width="300" height="650" margin="4px" src="src/assets/Screenshot_1636065727.png">
-  <img width="300" height="650" margin="4px" src="src/assets/Screenshot_1636065746.png">
-   <img width="300" height="650" margin="4px" src="src/assets/Screenshot_1636065750.png">
-   <img width="300" height="650" margin="4px" src="src/assets/Screenshot_1636065756.png">
-   <img width="300" height="650" margin="4px" src="src/assets/Screenshot_1636065918.png">
-   <img width="300" height="650" margin="4px" src="src/assets/Screenshot_1636065816.png">
+  <img width="200" height="450" margin="4px" src="src/assets/Screenshot_1636065711.png">
+  <img width="200" height="450" margin="4px" src="src/assets/Screenshot_1636065727.png">
+  <img width="200" height="450" margin="4px" src="src/assets/Screenshot_1636065746.png">
+   <img width="200" height="450" margin="4px" src="src/assets/Screenshot_1636065750.png">
+   <img width="200" height="450" margin="4px" src="src/assets/Screenshot_1636065756.png">
+   <img width="200" height="450" margin="4px" src="src/assets/Screenshot_1636065918.png">
+   <img width="200" height="450" margin="4px" src="src/assets/Screenshot_1636065816.png">
 </p>
